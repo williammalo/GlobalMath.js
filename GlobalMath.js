@@ -1,0 +1,1 @@
+(function(a,b){for(b in a=Object.getOwnPropertyNames(Math))this[a[b]]=Math[a[b]]})();
